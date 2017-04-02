@@ -15,7 +15,7 @@ import com.gsu.pos.bean.ProfileBean;
 import com.gsu.pos.util.DBUtil;
 import com.gsu.pos.util.DBUtilImpl;
 
-public class UserProfileDAOImpl implements UserProfileDAO{
+public class RegularUserProfileDAOImpl implements UserProfileDAO{
 	private static final int ONE=1;
 	private static final int TWO=2;
 	private static final int THREE=3;
